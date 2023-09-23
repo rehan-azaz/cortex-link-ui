@@ -1,0 +1,71 @@
+.container-fluid {
+    background-color: rgb(241, 244, 249);
+    padding-right: 0px;
+}
+.bg-primary {
+    background-color:rgb(30, 20, 94)!important;
+}
+.btn-primary{
+    background-color:rgb(24, 58, 186)!important;
+}
+.btn-danger {
+    background-color: rgb(251, 125, 91)!important;
+}
+.text-primary {
+    color:rgb(30, 20, 94)!important;
+}
+.text-danger {
+    color: rgb(251, 125, 91)!important;
+}
+.sidebar {
+    border-radius: 7px;
+    height: 97vh;
+    margin: 10px 0;
+}
+
+.sidebar-nav li span {
+    margin-left: 10px;
+}
+
+.row {
+    margin-right: 0px;
+}
+ul {
+    list-style: none;
+}
+.header-link {
+    display: flex;
+    justify-content: space-around;
+}
+.notification {
+    border-radius: 50px;
+    width: 45px; 
+    height: 45px; 
+}
+.notification img {
+    padding-left: 4px;
+    padding-top: 0px;
+}
+.user {
+    border-radius: 50px;
+    width: 45px; 
+    height: 45px; 
+}
+.user img {
+    padding-left: 4px;
+    padding-top: 0px;
+}
+.designation {
+    color: rgb(194, 195, 197);
+}
+h4 {
+    color: rgb(89, 89, 89);
+}
+
+h6 {
+    color: rgb(191, 191, 191);
+}
+
+.topics li {
+    display: inline;
+}
